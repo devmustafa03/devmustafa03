@@ -81,4 +81,5 @@
 </p>
 </div>
 <p>My Account previous account get suspended without any reason where I worked for 2 years on that account but due to no response I made new account and waiting to gain previous account soon</p>
-<iframe src="https://web.archive.org/web/20240709220300/https://github.com/mustafaazad03" width="100%" height="500px" style="border: none;"></iframe>
+<!-- <iframe src="https://web.archive.org/web/20240709220300/https://github.com/mustafaazad03" width="100%" height="500px" style="border: none;"></iframe> -->
+- https://web.archive.org/web/20240709220300/https://github.com/mustafaazad03
