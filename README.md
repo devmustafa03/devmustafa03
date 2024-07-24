@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://github.com/devmustafa03"><img src="https://github-profile-trophy.vercel.app/?username=devmustafa03&theme=algolia" alt="devmustafa03" /></a></p>
 <div style="align: center">
 <p>
+  
 - 🔭 I'm currently working on **Client Projects As a Full-Stack Developer**
 
 - 🌱 I'm currently focusing on **Overall Development & Growth**
@@ -44,7 +45,7 @@
 <br>
 <br><br><br>
 
-[![@mustafaazad03's Holopin board](https://holopin.me/mustafaazad03)](https://holopin.io/@mustafaazad03)
+[![@devmustafa03's Holopin board](https://holopin.me/mustafaazad03)](https://holopin.io/@devmustafa03)
 
 <!-- Connect Me On -->
 <h2 align="center">🔥 Connect Me On 🔥</h2>
@@ -66,20 +67,20 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs%2Cnestjs%2Cpostman%2Clinux&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs%2Cnestjs%2Cpostman%2Clinux&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs%2Cpostman%2Clinux&theme=light" alt="skills - 1" />
         </picture>
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase%2Cbun%2Ccpp%2Cfastapi%2Cflask&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase%2Cbun%2Ccpp%2Cfastapi%2Cflask&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase%2Cbun%2Ccpp%2Cfastapi%2Cflask&theme=light" alt="skills - 2" />
         </picture>
   </a>
 </p>
 </div>
-<p>My Account previous account get suspended without any reason where I worked for 2 years on that account but due to no response I made new account and waiting to gain previous account soon</p>
+<p>My previous account get suspended without any reason where I worked for 2 years on that account but due to no response I made new account and waiting to gain previous account soon</p>
 <!-- <iframe src="https://web.archive.org/web/20240709220300/https://github.com/mustafaazad03" width="100%" height="500px" style="border: none;"></iframe> -->
 - https://web.archive.org/web/20240709220300/https://github.com/mustafaazad03
